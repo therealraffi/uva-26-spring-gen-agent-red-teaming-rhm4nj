@@ -34,6 +34,10 @@ Load environment before running any script:
 
 ---
 
+## Key results:
+VLLM: `/team-10/src/experiments/vllm_light`
+OpenAI: `/team-10/src/experiments/openai_fresh`
+
 ## LLM Backend Configuration
 
 Edit `config.py` to set the backend for both the target agents and the red team agent:
